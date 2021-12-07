@@ -3,4 +3,4 @@
 This is a demo file
 
 ## Some more text
-espero que este cambio no de problemas (y tal)
+Para nada, no hay conflicto del merge que no se pueda resolver con p4merge :)
